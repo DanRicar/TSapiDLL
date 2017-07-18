@@ -1,0 +1,7 @@
+c:\@\wrk\Geomant\CTI\TSapiDLL\TSapiDLL\bin\Release\TSapiDLL.dll.config
+c:\@\wrk\Geomant\CTI\TSapiDLL\TSapiDLL\bin\Release\TSapiDLL.dll
+c:\@\wrk\Geomant\CTI\TSapiDLL\TSapiDLL\bin\Release\TSapiDLL.pdb
+c:\@\wrk\Geomant\CTI\TSapiDLL\TSapiDLL\bin\Release\log4net.dll
+c:\@\wrk\Geomant\CTI\TSapiDLL\TSapiDLL\bin\Release\log4net.xml
+c:\@\wrk\Geomant\CTI\TSapiDLL\TSapiDLL\obj\Release\TSapiDLL.dll
+c:\@\wrk\Geomant\CTI\TSapiDLL\TSapiDLL\obj\Release\TSapiDLL.pdb

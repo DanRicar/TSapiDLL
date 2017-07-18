@@ -1,0 +1,8 @@
+C:\@\DEVterium\OWN\AYA\TSapiDLL\TSapiDLL\bin\x64\Debug\TSapiDLL.dll.config
+C:\@\DEVterium\OWN\AYA\TSapiDLL\TSapiDLL\bin\x64\Debug\TSapiDLL.dll
+C:\@\DEVterium\OWN\AYA\TSapiDLL\TSapiDLL\bin\x64\Debug\TSapiDLL.pdb
+C:\@\DEVterium\OWN\AYA\TSapiDLL\TSapiDLL\bin\x64\Debug\log4net.dll
+C:\@\DEVterium\OWN\AYA\TSapiDLL\TSapiDLL\bin\x64\Debug\log4net.xml
+C:\@\DEVterium\OWN\AYA\TSapiDLL\TSapiDLL\obj\x64\Debug\TSapiDLL.csprojResolveAssemblyReference.cache
+C:\@\DEVterium\OWN\AYA\TSapiDLL\TSapiDLL\obj\x64\Debug\TSapiDLL.dll
+C:\@\DEVterium\OWN\AYA\TSapiDLL\TSapiDLL\obj\x64\Debug\TSapiDLL.pdb
